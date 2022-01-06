@@ -5,6 +5,7 @@
 - :green_book: Data, machine learning, artificial intelligence and math are my passions.
 - :green_book: Former civil engineer
 - :green_book: My biggest goal is to continue my lifelong learning adventure without stopping.
+- :green_book: A former engineer (civil) who has +5 years of experiences. 
 
 
 
