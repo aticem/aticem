@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![UXZXEnR87y3ABDUvWF9c49](https://user-images.githubusercontent.com/65057931/148323473-cf68cd0e-145c-46a8-bbaf-872ee750ea8d.jpg)
+
+
+
+
 
 ## :floppy_disk: Quick Facts
 
@@ -15,8 +20,7 @@
 
 - :floppy_disk: I’m addicted to learning and growing every day.
 
-[![Atilay's github stats](https://github-readme-stats.vercel.app/api?username=aticem&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aticem)](https://github.com/aaticem/github-readme-stats)
 
-:firecracker:	<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aticem/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aticem/0" alt="Recent Article 0">
