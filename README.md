@@ -19,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aticem)](https://github.com/aaticem/github-readme-stats)
 
-<a target="_blank" href="https://www.kaggle.com/atilaysamiloglu/text-mining-and-natural-language-processing/@aticem/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aticem/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aticem/0"><img src="https://www.kaggle.com/atilaysamiloglu/text-mining-and-natural-language-processing/@aticem/0" alt="Recent Article 0">
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="hhttps://www.kaggle.com/atilaysamiloglu/pyspark-tutorial-for-beginners/@aticem/0" alt="Recent Article 1">
   
