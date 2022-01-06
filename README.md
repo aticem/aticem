@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aticem)](https://github.com/aaticem/github-readme-stats)
 
-:firecracker:	<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aticem/0"><img src="https://atilaycemsamiloglu.medium.com/what-is-git-874232ddfffd?source=user_profile---------0-------------------------------/@aticem/0" alt="Recent Article 0">
+:firecracker:	<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aticem/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aticem/0" alt="Recent Article 0">
