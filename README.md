@@ -29,3 +29,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aticem)](https://github.com/aaticem/github-readme-stats)
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=aticem&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+:green_circle: do not forget to check my studies
