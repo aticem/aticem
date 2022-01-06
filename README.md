@@ -2,7 +2,7 @@
 
 ![james-webb-54e84f8](https://user-images.githubusercontent.com/65057931/148323698-f997d4ef-7950-45f4-bea0-56acd772edae.jpg)
 - :green_book: My name is Atilay. I am a master student at Ulser University in London, England 2022-2023 for International Business and Data Analytics. 
-- :green_book: Data, machine learning artificial intelligence and math are my passions.
+- :green_book: Data, machine learning, artificial intelligence and math are my passions.
 - :green_book: Former civil engineer
 - :green_book: My biggest goal is to continue my lifelong learning adventure without stopping.
 
