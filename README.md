@@ -19,7 +19,7 @@ My website is https://www.atilaysamiloglu.com/ .
   - :bulb: [Medium articles](https://atilaycemsamiloglu.medium.com)
   - :pencil2: [Kaggle](https://www.kaggle.com/atilaysamiloglu)
   - :office: [LinkedIn](https://www.linkedin.com/in/atilaycem/)
-- :floppy_disk: Fun fact: I will be a bartender in my second life. (i am a bartender now.(Long story))
+- :floppy_disk: Fun fact: I will be a bartender in my second life(2022). (I am a bartender now.(Long story, 2024))
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aticem)](https://github.com/aaticem/github-readme-stats)
